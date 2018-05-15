@@ -2,7 +2,7 @@ package ilhom;
 
 public class Car {
 	public static void main(String[] args) {
-		
+		//just a change (central repository}
 		Car Mersedes = new Car();  //Mersedes is an object of class Car
 		
 		String color ="white";
